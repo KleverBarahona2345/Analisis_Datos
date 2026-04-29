@@ -1,7 +1,7 @@
 <div align="center">
 
 # Impacto del uso de redes sociales en el estrés adolescente
-**Trabajo Académico — Grupo 3**
+**Trabajo Académico  —  Grupo 3**
 
 *Integrantes: Erik Flores • Cristian González • Klever Barahona*
 
